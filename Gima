@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gima - Alfabeti Shqip</title>
+<style>
+body{font-family:Arial, sans-serif;background:#f2f2f2;margin:0;text-align:center}
+header{background:#111;color:white;padding:20px;font-size:32px;font-weight:bold}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:15px;padding:20px}
+.card{background:white;border-radius:12px;padding:15px;box-shadow:0 2px 6px rgba(0,0,0,0.2)}
+.card img{width:80px;height:80px;object-fit:cover;border-radius:8px}
+.letter{font-size:28px;font-weight:bold;margin-bottom:10px}
+</style>
+</head>
+<body>
+<header>Gima - Alfabeti nga A tek Zh</header>
+
+<div class="grid">
+<div class="card"><div class="letter">A</div><img src="https://via.placeholder.com/80?text=Arush" alt="A"></div>
+<div class="card"><div class="letter">B</div><img src="https://via.placeholder.com/80?text=Banane" alt="B"></div>
+<div class="card"><div class="letter">C</div><img src="https://via.placeholder.com/80?text=Caj" alt="C"></div>
+<div class="card"><div class="letter">Ç</div><img src="https://via.placeholder.com/80?text=Çaj" alt="Ç"></div>
+<div class="card"><div class="letter">D</div><img src="https://via.placeholder.com/80?text=Dhi" alt="D"></div>
+<div class="card"><div class="letter">Dh</div><img src="https://via.placeholder.com/80?text=Dhelpër" alt="Dh"></div>
+<div class="card"><div class="letter">E</div><img src="https://via.placeholder.com/80?text=Elefant" alt="E"></div>
+<div class="card"><div class="letter">Ë</div><img src="https://via.placeholder.com/80?text=Ëmbëlsirë" alt="Ë"></div>
+<div class="card"><div class="letter">F</div><img src="https://via.placeholder.com/80?text=Flutur" alt="F"></div>
+<div class="card"><div class="letter">G</div><img src="https://via.placeholder.com/80?text=Gjel" alt="G"></div>
+<div class="card"><div class="letter">Gj</div><img src="https://via.placeholder.com/80?text=Gjarpër" alt="Gj"></div>
+<div class="card"><div class="letter">H</div><img src="https://via.placeholder.com/80?text=Hënë" alt="H"></div>
+<div class="card"><div class="letter">I</div><img src="https://via.placeholder.com/80?text=Igel" alt="I"></div>
+<div class="card"><div class="letter">J</div><img src="https://via.placeholder.com/80?text=Jelek" alt="J"></div>
+<div class="card"><div class="letter">K</div><img src="https://via.placeholder.com/80?text=Kalë" alt="K"></div>
+<div class="card"><div class="letter">L</div><img src="https://via.placeholder.com/80?text=Luan" alt="L"></div>
+<div class="card"><div class="letter">Ll</div><img src="https://via.placeholder.com/80?text=Llap" alt="Ll"></div>
+<div class="card"><div class="letter">M</div><img src="https://via.placeholder.com/80?text=Mollë" alt="M"></div>
+<div class="card"><div class="letter">N</div><img src="https://via.placeholder.com/80?text=Natë" alt="N"></div>
+<div class="card"><div class="letter">Nj</div><img src="https://via.placeholder.com/80?text=Një" alt="Nj"></div>
+<div class="card"><div class="letter">O</div><img src="https://via.placeholder.com/80?text=Oqean" alt="O"></div>
+<div class="card"><div class="letter">P</div><img src="https://via.placeholder.com/80?text=Pulë" alt="P"></div>
+<div class="card"><div class="letter">Q</div><img src="https://via.placeholder.com/80?text=Qershi" alt="Q"></div>
+<div class="card"><div class="letter">R</div><img src="https://via.placeholder.com/80?text=Rrugë" alt="R"></div>
+<div class="card"><div class="letter">Rr</div><img src="https://via.placeholder.com/80?text=Rrufe" alt="Rr"></div>
+<div class="card"><div class="letter">S</div><img src="https://via.placeholder.com/80?text=Shkollë" alt="S"></div>
+<div class="card"><div class="letter">Sh</div><img src="https://via.placeholder.com/80?text=Shqiponjë" alt="Sh"></div>
+<div class="card"><div class="letter">T</div><img src="https://via.placeholder.com/80?text=Top" alt="T"></div>
+<div class="card"><div class="letter">Th</div><img src="https://via.placeholder.com/80?text=Thikë" alt="Th"></div>
+<div class="card"><div class="letter">U</div><img src="https://via.placeholder.com/80?text=Ujë" alt="U"></div>
+<div class="card"><div class="letter">V</div><img src="https://via.placeholder.com/80?text=Varkë" alt="V"></div>
+<div class="card"><div class="letter">X</div><img src="https://via.placeholder.com/80?text=Xixë" alt="X"></div>
+<div class="card"><div class="letter">Xh</div><img src="https://via.placeholder.com/80?text=Xham" alt="Xh"></div>
+<div class="card"><div class="letter">Y</div><img src="https://via.placeholder.com/80?text=Yll" alt="Y"></div>
+<div class="card"><div class="letter">Z</div><img src="https://via.placeholder.com/80?text=Zog" alt="Z"></div>
+<div class="card"><div class="letter">Zh</div><img src="https://via.placeholder.com/80?text=Zhurmë" alt="Zh"></div>
+</div>
+
+</body>
+</html>
